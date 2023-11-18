@@ -454,10 +454,8 @@ function resetCalculator() {
 
  
   
-  
   <div style="margin-bottom: 45px;"></div>
   
-
   <button class="calculate-button" onclick="calculateTotal()">Calculate Total</button>
   <button class="submit-button" onclick="submitAndReset()">Submit Order</button>
   <button class="reset-button" onclick="resetCalculator()">Reset</button>
