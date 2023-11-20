@@ -332,37 +332,37 @@ function resetCalculator() {
   
   <div>
     <input type="checkbox" id="Davechoice" value="250$">
-    <label for="Davechoice">Double Shot Meal - $</label>250
+    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>250
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="530$">
-    <label for="Davechoice">The Heart Stopper Meal - $</label>530
+    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>530
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="280$">
-    <label for="Davechoice">Simple Burger Meal - $</label>280
+    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>280
     <input type="number" value="1" min="1">
   </div>
 
   <div>
     <input type="checkbox" id="Davechoice" value="270$">
-    <label for="Davechoice">The Prickly Meal - $</label>270
+    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>270
     <input type="number" value="1" min="1">
   </div>
 
    <div>
     <input type="checkbox" id="Davechoice" value="260$">
-    <label for="Davechoice">Chicken Wrap Meal - $</label>260
+    <label for="Davechoice">Chicken Wrap Meal(Orangotang Ice Cream)- $</label>260
     <input type="number" value="1" min="1">
   </div>
   
    <div>
     <input type="checkbox" id="Davechoice" value="170$">
-    <label for="Davechoice">Goat Cheese Wrap Meal - $</label>170
+    <label for="Davechoice">Goat Cheese Wrap Meal(Meteorite Ice Cream)- $</label>170
     <input type="number" value="1" min="1">
   </div>
   
