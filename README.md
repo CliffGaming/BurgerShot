@@ -326,7 +326,7 @@ function resetCalculator() {
   
   <div>
     <input type="checkbox" id="uwueats" value="250$">
-    <label for="Velmachoice">The Bleeder Meal - $</label>250
+    <label for="Velmachoice">The Bleeder Meal (Meteorite Ice Cream) - $</label>250
     <input type="number" value="1" min="1">
   </div>
   
