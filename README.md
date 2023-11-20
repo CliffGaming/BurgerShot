@@ -245,6 +245,12 @@ function resetCalculator() {
   </div>
   
   <div>
+    <input type="checkbox" id="Davechoice" value="440$">
+    <label for="Davechoice">Heart Stopper - $</label>440
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
     <input type="checkbox" id="Davechoice" value="150$">
     <label for="Davechoice">Simple Burger - $</label>150
     <input type="number" value="1" min="1">
@@ -262,12 +268,6 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
-<div>
-    <input type="checkbox" id="Davechoice" value="440$">
-    <label for="Davechoice">Heart Stopper - $</label>440
-    <input type="number" value="1" min="1">
-  </div>
-  
   <div>
     <input type="checkbox" id="Davechoice" value="140$">
     <label for="Davechoice">Chicken Wrap - $</label>140
@@ -353,6 +353,12 @@ function resetCalculator() {
     <label for="Davechoice">The Prickly Meal - $</label>270
     <input type="number" value="1" min="1">
   </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="260$">
+    <label for="Davechoice">Chicken Wrap Meal - $</label>260
+    <input type="number" value="1" min="1">
+  </div>
   
    <div>
     <input type="checkbox" id="Davechoice" value="170$">
@@ -360,11 +366,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-   <div>
-    <input type="checkbox" id="Davechoice" value="260$">
-    <label for="Davechoice">Chicken Wrap Meal - $</label>260
-    <input type="number" value="1" min="1">
-  </div>
+
    
   <h3>Specials</h3>
    <div>
