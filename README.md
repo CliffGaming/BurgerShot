@@ -320,7 +320,7 @@ function resetCalculator() {
   </div>
   
   
-   <h3> Burger Shot Specials Meals</h3>
+   <h3> Burger Shot Meals (Drink,Fries, and Ice Cream)</h3>
 
   <div style="margin-bottom: 10px;"></div>
   
