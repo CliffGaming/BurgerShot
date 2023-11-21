@@ -324,44 +324,44 @@ function resetCalculator() {
   <div style="margin-bottom: 10px;"></div>
   
   <div>
-    <input type="checkbox" id="uwueats" value="250$">
-    <label for="Velmachoice">The Bleeder Meal(Meteorite Ice Cream)- $</label>250
+    <input type="checkbox" id="uwueats" value="500$">
+    <label for="Velmachoice">The Bleeder Meal(Meteorite Ice Cream)- $</label>500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="250$">
-    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>250
+    <input type="checkbox" id="Davechoice" value="500$">
+    <label for="Davechoice">Double Shot Meal(Meteorite Ice Cream)- $</label>500
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Davechoice" value="530$">
-    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>530
+    <input type="checkbox" id="Davechoice" value="750$">
+    <label for="Davechoice">The Heart Stopper Meal(Meteorite Ice Cream)- $</label>750
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="280$">
-    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>280
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Simple Burger Meal(Orangotang Ice Cream)- $</label>430
     <input type="number" value="1" min="1">
   </div>
 
   <div>
-    <input type="checkbox" id="Davechoice" value="270$">
-    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>270
+    <input type="checkbox" id="Davechoice" value="425$">
+    <label for="Davechoice">The Prickly Meal(Orangotang Ice Cream)- $</label>425
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="260$">
-    <label for="Davechoice">Chicken Wrap Meal(Orangotang Ice Cream)- $</label>260
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Chicken Wrap Meal(Orangotang Ice Cream)- $</label>430
     <input type="number" value="1" min="1">
   </div>
   
    <div>
-    <input type="checkbox" id="Davechoice" value="170$">
-    <label for="Davechoice">Goat Cheese Wrap Meal(Meteorite Ice Cream)- $</label>170
+    <input type="checkbox" id="Davechoice" value="430$">
+    <label for="Davechoice">Goat Cheese Wrap Meal(Meteorite Ice Cream)- $</label>430
     <input type="number" value="1" min="1">
   </div>
   
