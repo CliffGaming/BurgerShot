@@ -135,7 +135,7 @@
     });
 
     var total = 0;
-    var discountTotal = 1;
+    var discountTotal = 0;
 
     selectedItems.forEach(function (item) {
       if (item.price < 0) {
@@ -148,7 +148,7 @@
     });
 
     var commission = (total * 0.10).toFixed(2);
-    var totalWithDiscount = total - discountTotal;
+    var totalWithDiscount = total;
 
     alert('Order submitted!');
 
