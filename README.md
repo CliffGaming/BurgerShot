@@ -379,6 +379,56 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
+   <div>
+    <input type="checkbox" id="Davechoice" value="2000$">
+    <label for="Davechoice">10- Ice Cream - $</label>2000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="4000$">
+    <label for="Davechoice">20- Ice Cream - $</label>4000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="8000$">
+    <label for="Davechoice">40- Ice Cream - $</label>8000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="12000$">
+    <label for="Davechoice">60- Ice Cream - $</label>12000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="16000$">
+    <label for="Davechoice">80- Ice Cream - $</label>16000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="6000$">
+    <label for="Davechoice">40- Goat Wrap - $</label>6000
+    <input type="number" value="1" min="1">
+  </div>
+
+   <div>
+    <input type="checkbox" id="Davechoice" value="9000$">
+    <label for="Davechoice">60- Goat Wrap - $</label>9000
+    <input type="number" value="1" min="1">
+  </div>
+
+<div>
+    <input type="checkbox" id="Davechoice" value="12000$">
+    <label for="Davechoice">80- Goat Wrap - $</label>12000
+    <input type="number" value="1" min="1">
+  </div>
+
+
+
    <h3>Special Events</h3>
    <div>
     <input type="checkbox" id="Davechoice" value="5000$">
